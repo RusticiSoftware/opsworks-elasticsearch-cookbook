@@ -16,3 +16,4 @@ cookbook 'elasticsearch', git: 'git://github.com/elasticsearch/cookbook-elastics
 cookbook 'mongodb', git: 'git://github.com/edelight/chef-mongodb'
 cookbook 'papertrail', git: 'git://github.com/librato/papertrail-cookbook', tag: '0.0.7'
 cookbook 'aws-tag', git: 'git://github.com/stuart-warren/chef-aws-tag.git'
+cookbook 'cron', '>= 1.6.1'
